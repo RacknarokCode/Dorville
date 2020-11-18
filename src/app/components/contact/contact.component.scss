@@ -1,0 +1,35 @@
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.c{
+    width: 50%;
+}
+input{
+    background: #f7f2f2;
+    height: 40px;
+    border:none;
+    border-bottom: 2px solid #d6cfcf;
+}
+input:hover{
+    border:none;
+    border-bottom: 2px solid  #d6cfcf;
+}
+textarea{
+    background: #f7f2f2;
+    border:none;
+    border-bottom: 2px solid #f7f2f2;
+}
+b{
+    color: red;
+}
+
+.btn{
+    height: 40px;
+    width: 100px;
+    border:1px solid #3c3c3c;
+    color: #1c1c1c;
+}
